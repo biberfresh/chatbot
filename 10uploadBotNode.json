@@ -1,0 +1,29 @@
+{
+	"sender": "bot",
+	"id": 9,
+	"text": "Okay prima. Bitte laden Sie den bei Abholung an der Station unterschriebenen Mietvertrag hoch.",
+	"type": "text",
+	"data": {
+		"category": "contract",
+		"options": [
+			{
+				"key": "upload",
+				"text": "Mietvertrag jetzt hochladen"
+			},
+			{
+				"key": "pending",
+				"text": "Ich reiche ihn nach"
+			},
+			{
+				"key": "lost",
+				"text": "Habe ich leider nicht (mehr)"
+			}
+		],
+	},
+	"input": {
+		"type": "upload",
+		"default": null,
+		"placeholder": null,
+	},
+	"datetime": "2022-03-03T12:02:26+01:00",
+}

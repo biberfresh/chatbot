@@ -1,0 +1,13 @@
+{
+	"sender": "bot",
+	"id": 7,
+	"text": "Was möchten Sie uns mitteilen?",
+	"type": "text",
+	"data": {},
+	"input": {
+		"type": "text",
+		"default": null,
+		"placeholder": "Ihr Text...",
+	},
+	"datetime": "2022-03-03T12:02:26+01:00",
+}

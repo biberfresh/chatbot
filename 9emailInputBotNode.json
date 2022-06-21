@@ -1,0 +1,13 @@
+{
+	"sender": "bot",
+	"id": 8,
+	"text": "Wie lautet Ihre E-Mail Adresse?",
+	"type": "text",
+	"data": {},
+	"input": {
+		"type": "email",
+		"default": "z.B. max.mustermann@mail.de",
+		"placeholder": null,
+	},
+	"datetime": "2022-03-03T12:02:26+01:00",
+}

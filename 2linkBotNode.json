@@ -1,0 +1,11 @@
+{
+	"sender": "bot",
+	"id": 2,
+	"text": "Bitte klick mich",
+	"type": "link",
+	"data": {
+	    "url": "https://mietwagen.check24.de"
+	},
+	"input": null,
+	"datetime": "2022-03-03T12:00:26+01:00"
+}

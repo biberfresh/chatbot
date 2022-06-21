@@ -1,0 +1,13 @@
+{
+	"sender": "bot",
+	"id": 5,
+	"text": "Bitte geben Sie Ihre Flugnummer ein",
+	"type": "text",
+	"data": {},
+	"input": {
+		"type": "flight_number",
+		"default": null,
+		"placeholder": "AB 1234",
+	},
+	"datetime": "2022-03-03T12:06:26+01:00",
+}

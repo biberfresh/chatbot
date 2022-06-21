@@ -1,0 +1,11 @@
+{
+	"sender": "user",
+	"id": 10,
+	"text": "DE123450000000001234",
+	"type": "input",
+	"sub_type": "payment",
+	"data": {
+		"payment-id": "a79v1qhmwh6tytfci2"
+	}
+	"datetime": "2022-03-03T12:14:10+01:00",
+}

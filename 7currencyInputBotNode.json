@@ -1,0 +1,13 @@
+{
+	"sender": "bot",
+	"id": 6,
+	"text": "Bitte geben Sie Ihren gefordeten Rückerstattungsbetrag an!",
+	"type": "text",
+	"data": {},
+	"input": {
+		"type": "currency",
+		"default": null,
+		"placeholder": "123,45",
+	},
+	"datetime": "2022-03-03T12:02:26+01:00",
+}

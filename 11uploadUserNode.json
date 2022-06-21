@@ -1,0 +1,13 @@
+{
+	"sender": "user",
+	"id": 9,
+	"text": "Mietvertrag ABC",
+	"type": "upload",
+	"data": {},
+	"input": {
+		"type": "upload",
+		"default": null,
+		"placeholder": null,
+	},
+	"datetime": "2022-03-03T12:03:10+01:00",
+}

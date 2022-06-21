@@ -1,0 +1,29 @@
+{
+	"sender": "bot",
+	"id": 3,
+	"text": "Hat das Ihre Frage beantwortet?",
+	"type": "question",
+	"data": {
+		"selection_mode": "single",
+	    "answers": [
+			{
+				"key": "yes",
+				"text": "Ja"
+			},
+			{
+				"key": "no",
+				"text": "Nein"
+			},
+			{
+				"key": "maybe",
+				"text": "Vielleicht"
+			}
+		],
+	},
+	"input": {
+		"type": "text",
+		"default": null,
+		"placeholder": "Andere Antwort angeben",
+	},
+	"datetime": "2022-03-03T12:02:26+01:00",
+}

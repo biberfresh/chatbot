@@ -1,0 +1,10 @@
+{
+	"sender": "bot",
+	"id": 10,
+	"text": "Im folgenden Fenster können Sie Ihre Bankdaten für eine mögliche Rückerstattung auswählen, beziehungsweise eintragen.",
+	"type": "input",
+	"sub_type": "payment",
+	"data": {
+	}
+	"datetime": "2022-03-03T12:02:26+01:00"
+}
