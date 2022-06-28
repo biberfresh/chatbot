@@ -18,12 +18,12 @@
 				"key": "maybe",
 				"text": "Vielleicht"
 			}
-		],
+		]
 	},
 	"input": {
 		"type": "text",
 		"default": null,
-		"placeholder": "Andere Antwort angeben",
+		"placeholder": "Andere Antwort angeben"
 	},
-	"datetime": "2022-03-03T12:02:26+01:00",
+	"datetime": "2022-03-03T12:02:26+01:00"
 }
